@@ -1,0 +1,10 @@
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\bin\Debug\TestFigure.exe.config
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\bin\Debug\TestFigure.exe
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\bin\Debug\TestFigure.pdb
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.csprojAssemblyReference.cache
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.MainForm.resources
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.Properties.Resources.resources
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.csproj.GenerateResource.cache
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.csproj.CoreCompileInputs.cache
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.exe
+C:\Users\bboym\Desktop\New work\Code\Area\TestFigure\obj\Debug\TestFigure.pdb
